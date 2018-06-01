@@ -11,7 +11,7 @@ For example, legacy systems are commonly considered unhealthy, with traits like 
 Spreetail is a measurment driving organization, so the subjective feelings surrounding legacy systems have been difficult to address without the ability to measure the positive effects of refactoring. 
 
 ## Measurement Method
-Overall Solution Fitness is measured as average percent complete. Percent complete is measured through the evaluation of each Solution Fitness Parameter across each <i>critical<i/> codebase. A cross-functional team establishes acceptance criteria for each Solution Fitness Paramter and evaluates how well each solution adheres to the parameter requirements. Adherence to each of the parameters will give a codebase a percent complete metric. Percent complete metrics are averaged across all applicable code repositories to arrive at an average percent complete.
+Overall Solution Fitness is measured as average percent complete. Percent complete is measured through the evaluation of each Solution Fitness Parameter across each critical codebase. A cross-functional team establishes acceptance criteria for each Solution Fitness Paramter and evaluates how well each solution adheres to the parameter requirements. Adherence to each of the parameters will give a codebase a percent complete metric. Percent complete metrics are averaged across all applicable code repositories to arrive at an average percent complete.
   
 ### Critical Codebases?
 Codebases are defined as critical if they meet any of the following criteria: 
