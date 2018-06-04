@@ -11,10 +11,14 @@ For example, legacy systems are commonly considered unhealthy, with traits like 
 Spreetail is a measurment driving organization, so the subjective feelings surrounding legacy systems have been difficult to address without the ability to measure the positive effects of refactoring. 
 
 ## Measurement Method
-Overall Solution Fitness is measured as average percent complete. Percent complete is measured through the evaluation of each Solution Fitness Parameter across each critical codebase. A cross-functional team establishes acceptance criteria for each Solution Fitness Paramter and evaluates how well each solution adheres to the parameter requirements. Adherence to each of the parameters will give a codebase a percent complete metric. Percent complete metrics are averaged across all applicable code repositories to arrive at an average percent complete.
+Overall Solution Fitness is measured as average percent complete. Percent complete is measured through the evaluation of each Solution Fitness Parameter across each critical codebase. A cross-functional team sets acceptance criteria for each Solution Fitness Paramter and evaluates how well each solution adheres to the parameter requirements. Adherence to each of the parameters will give a codebase a percent complete metric. Percent complete metrics are averaged across all critical codebases to arrive at an average percent complete.
   
 ### Critical Codebases?
 Codebases are defined as critical if they meet any of the following criteria: 
-- Software used directly by the business (i.e. CRM Systems)
-- Infrastructure components that support deployed software (i.e. Redis)
-- Libraries or components that are used by deployed software (i.e. user interface components).
+- Deployed software used directly by the business (i.e. CRM Systems, WMS Systems)
+- Infrastructure components that support deployed software (i.e. Redis, RabbitMQ)
+- Libraries or components that are used by deployed software (i.e. user interface components, Shared Libraries).
+
+## Solution Fitness Parameters
+- [Individual Owner](solution-fitness-parameters/individual-owner.md)
+
