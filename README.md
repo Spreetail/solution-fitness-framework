@@ -3,7 +3,7 @@ Solution Fitness is an aggregate measure of the overall quality, maintainability
 
 The original motivation behind the Solution Fitness Framework is the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code), a popular "napkin-math" style test to determine the effectiveness of software teams. 
 
-[Nebraska.Code() Presentation](docs/index.html)
+[Nebraska.Code() Presentation](presentation/index.html)
 
 ## Solution Fitness Themes
 <Add the main drivers of solution fitness />
