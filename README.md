@@ -6,6 +6,13 @@ The original motivation behind the Solution Fitness Framework is the [Joel Test]
 [Nebraska.Code() Presentation](presentation/index.html)
 
 ## Solution Fitness Themes
+### Platform (or Enterprise) Visibility
+### Journey > Destination
+### Distributed ...
+++ Delegation
+### Objective Code-Health Improvements
+- If it can be measured it can be managed...
+
 <Add the main drivers of solution fitness />
 
 ## History of the Metric @ Spreetail
