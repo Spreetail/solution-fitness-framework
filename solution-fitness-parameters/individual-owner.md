@@ -3,3 +3,5 @@ The Individual Owner of a codebase is the singular point of contact for all info
 
 Individual Owners are typically team leads, but others can be assigned to the Individual Owner role. Teams that manage a wide variety of codebases often use developers as Individual Owners of systems. This is also a common way to identify where teams are growing too large and need to split. 
 
+++ Visibility
+++ Personal growth and development
