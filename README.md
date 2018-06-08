@@ -6,14 +6,11 @@ The original motivation behind the Solution Fitness Framework is the [Joel Test]
 [Nebraska.Code() Presentation](presentation/index.html)
 
 ## Solution Fitness Themes
-### Platform (or Enterprise) Visibility
+### Make Health Objective
 ### Journey > Destination
-### Distributed ...
-++ Delegation
-### Objective Code-Health Improvements
-- If it can be measured it can be managed...
-
-<Add the main drivers of solution fitness />
+### Forced Visibility
+### Distributed Professional Development
+### Increased Stakeholder Trust
 
 ## History of the Metric @ Spreetail
 The health of software systems has traditionally been a “feeling” without any specific, objective traits to indicate what constitutes a healthy system. Teams have struggled to objectively define software health for many years. 
