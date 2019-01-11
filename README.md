@@ -40,24 +40,18 @@ These parameters are meant to be indicators of a quality system. If a system mee
 - [Group](solution-fitness-parameters/group.md)
 - [Readme - Functionality](solution-fitness-parameters/readme-functionality.md)
 - [Readme - Local Development](solution-fitness-parameters/readme-local-development.md)
-- [Readme - Future Roadmap](solution-fitness-parameters/readme-future-roadmap.md)
 - [Readme - Runbooks](solution-fitness-parameters/readme-runbooks.md)
 - [GitIgnore](solution-fitness-parameters/gitignore-file.md)
 - [Source Control](solution-fitness-parameters/source-control.md)
-- [Database Switcher](solution-fitness-parameters/database-switcher.md)
 - [Environment Awareness](solution-fitness-parameters/environment-awareness.md)
 - [Tests](solution-fitness-parameters/tests.md)
 - [Continuous Integration](solution-fitness-parameters/continuous-integration.md)
 - [Continuous Deployment](solution-fitness-parameters/continuous-deployment.md)
 - [Continuous Quality](solution-fitness-parameters/continuous-quality.md)
 - [Application Performance Management](solution-fitness-parameters/apm-integration.md)
-- [Backlog](solution-fitness-parameters/backlog.md)
 - [Hound](solution-fitness-parameters/hound.md)
 - [Service Discovery](solution-fitness-parameters/service-discovery.md)
 - [Logging](solution-fitness-parameters/logging.md)
-
-### Future Parameters
-- [Architecture](solution-fitness-parameters/architecture.md) 
 
 ### Parameters != Quality
 It is important to note that Solution Fitness Parameters are indicators of a quality system - they are not provers of a quality system. It is still possible to satisfy the requirements of multiple parameters but still have a unhealthy, low-quality system. 
